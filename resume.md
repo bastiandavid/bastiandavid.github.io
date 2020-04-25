@@ -1,6 +1,6 @@
 ---
 layout: resume
-layout: page
+#layout: page
 title: Résumé
 description: >
   This is the `description` of your resume page, as it will be seen by search engines.
@@ -10,17 +10,17 @@ menu: true
 order: 3
 left_column:
  - work
- - volunteer
  - education
- - awards
- - publications
- - references
+ - volunteer
+# - publications
+# - references
 right_column:
+ - awards
  - languages
  - skills
  - interests
 ---
 
-<!-- Here you will find everything about my (academic) life. Maybe a few fun things
+Here you will find everything about my (academic) life. Maybe a few fun things
 too. Once I found out how to produce a JSON Resume.
-Until then, you can check out [my page](https://www.translationalneuroimaging.de/bastian-david) on our Lab-homepage. -->
+Until then, you can check out [my page](https://www.translationalneuroimaging.de/bastian-david) on our Lab-homepage.
