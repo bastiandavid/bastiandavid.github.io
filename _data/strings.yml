@@ -112,10 +112,10 @@ resume:
   education:           Education
   education_title:     <!--study_type--> in <!--area--> from <!--institution--> with GPA of <!--gpa-->
   courses:             Courses
-  awards:              Awards
+  awards:              Awards & Scholarships
   awards_title:        <!--title--> from <!--awarder-->
-  publications:        Publications
-  publications_title:  <!--name--> by <!--publisher-->
+  publications:        Invited talks
+  publications_title:  <!--name--> presented at <!--publisher-->
   references:          References
   languages:           Languages
   fluency:             Fluency
