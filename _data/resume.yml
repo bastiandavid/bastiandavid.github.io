@@ -87,7 +87,7 @@ education:
     studyType: "B.Sc."
     startDate: "Oct 2009"
     endDate: "Sep 2013"
-    gpa: "2.0 (very good)"
+    gpa: "2.0 (Very good)"
     courses:
       - "Module 1 - Neuroinformatics"
       - "Module 2 - Cognitive Psychology"
@@ -149,7 +149,7 @@ publications:
     releaseDate: "Sep 2017"
     website: ""
 skills:
-  - name: "Pyhon"
+  - name: "Python"
     level: "Master"
     keywords:
       - "TensorFlow"
