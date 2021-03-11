@@ -61,13 +61,6 @@ Tobias Bauer, Leon Ernst, ***Bastian David***, Albert J Becker, Jan Wagner, Juri
 
 *NeuroImage: Clinical*, DOI: [10.1016/j.nicl.2020.102289](https://doi.org/10.1016/j.nicl.2020.102289)
 
-
-**Fixel-based analysis links white matter characteristics, serostatus and clinical features in limbic encephalitis**
-
-Tobias Bauer, Leon Ernst, ***Bastian David***, Albert J Becker, Jan Wagner, Juri-Alexander Witt, Christoph Helmstaedter, Bernd Weber, Elke Hattingen, Christian E Elger, Rainer Surges, Theodor Rüber
-
-*NeuroImage: Clinical*, DOI: [10.1016/j.nicl.2020.102289](https://doi.org/10.1016/j.nicl.2020.102289)
-
 2019
 ---
 
