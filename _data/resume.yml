@@ -3,7 +3,7 @@
 # See also: <https://jsonresume.org/>.
 basics:
   name: "Bastian David"
-  label: "Computational Neuroscientist & AI Engineer"
+  label: "Computational Neuroscientist & Data Scientist & AI Engineer"
   picture: "/assets/img/headshot.jpg"
   email: ""
   phone: "+49 228 6885-262"
@@ -154,6 +154,7 @@ skills:
     keywords:
       - "TensorFlow"
       - "PyTorch"
+      - "scikit-learn"
   - name: "MATLAB"
     level: "Master"
   - name: "Java"

@@ -3,7 +3,7 @@ layout: page
 title:  Publications
 ---
 
-Here you finde a complete list of my peer-reviewed publications (newest to oldest). Feel free to also visit my [Google Scholar](https://scholar.google.de/citations?user=2Fs3Z1QAAAAJ&hl=de), my [Research Gate](https://www.researchgate.net/profile/Bastian_David2) or my [OrcID](https://orcid.org/0000-0002-0146-0629) profiles.
+Here you find a complete list of my peer-reviewed publications (newest to oldest). Feel free to also visit my [Google Scholar](https://scholar.google.de/citations?user=2Fs3Z1QAAAAJ&hl=de), my [Research Gate](https://www.researchgate.net/profile/Bastian_David2) or my [OrcID](https://orcid.org/0000-0002-0146-0629) profiles.
 
 2021
 ---
