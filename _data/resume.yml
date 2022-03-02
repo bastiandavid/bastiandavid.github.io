@@ -3,10 +3,9 @@
 # See also: <https://jsonresume.org/>.
 basics:
   name: "Bastian David"
-  label: "Computational Neuroscientist & Data Scientist & AI Engineer"
+  label: "Data Scientist & AI Researcher & Computational Neuroscientist "
   picture: "/assets/img/headshot.jpg"
   email: "bastian.david@outlook.de"
-  phone: "+49 228 6885-262"
   website: "https://bastiandavid.com"
   # summary: >
   #   Richard hails from Tulsa.
@@ -31,27 +30,78 @@ basics:
     - network: "GitHub"
       username: "bastiandavid"
       url: ""
+    - network: "LinkedIn"
+      username: "Bastian David"
+      url: "https://www.linkedin.com/in/bastian-david/"
 work:
-  - company: "University Hospital Bonn - Department of Epileptology / Translational Neuroimaging"
-    position: "Research scientist"
-    website: "https://www.translationalneuroimaging.de/bonn"
-    startDate: "Jun 2019"
+  - company: "SPITCH GmbH"
+    position: "Head of Data"
+    website: "https://www.spitch.live/"
+    startDate: "Jul 2021"
     endDate: ""
     # summary: >
     #   Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has
     #   consistently fielded high Weisman Scores™ that are not merely competitive,
     #   but approach the theoretical limit of lossless compression.
-    # highlights:
-    #   - "Build an algorithm for artist to detect if their music was violating copy right infringement laws"
-    #   - "Successfully won Techcrunch Disrupt"
-    #   - "Optimized an algorithm that holds the current world record for Weisman Scores"
+    highlights:
+      - "building scalable ETL pipelines and data platforms from scratch"
+      - "developing automization solutions across business units"
+      - "establishment and analysis of user-based KPIs"
+      - "fraud detection"
+      - "development and management of BI platforms"
+  - company: "University Hospital Bonn - Department of Epileptology / Translational Neuroimaging"
+    position: "AI Research Scientist"
+    website: "https://www.translationalneuroimaging.de/bonn"
+    startDate: "Mar 2016"
+    endDate: "Jul 2021"
+    #summary:
+    highlights:
+       - ">20 peer-reviewed publications"
+       - "lesion detection algorithm used in >60 epilepsy centers worldwide"
+       - "received awards and scholarships amounting to >100,000 Euro"
+  - company: "KAUST (King Abdullah University of Science and Technology) / Visual Computing Center"
+    position: "Visiting Researcher"
+    website: "https://computationalsciences.org/index.html"
+    startDate: "Feb 2019"
+    endDate: "Jul 2019"
+      #summary:
+    highlights:
+        - "Algorithmic optimization and artificial intelligence research"
+  - company: "University Hospital Bonn / Clinical Neuroimaging"
+    position: "Assistant Research Analyst"
+    website: "https://www.ukbonn.de/epileptologie/"
+    startDate: "Dec 2015"
+    endDate: "Mar 2016"
+    highlights:
+        - "ML-based abnormality detection"
+  - company: "University of Maastricht / Cognitive Neuroscience Dept."
+    position: "Visiting Researcher"
+    website: "https://www.maastrichtuniversity.nl/"
+    startDate: "Jan 2015"
+    endDate: "Apr 2015"
+    highlights:
+        - "Non-invasive brain stimulation research"
+  - company: "LaTrobe University / Biochemistry Dept."
+    position: "Visiting Researcher"
+    website: "https://www.latrobe.edu.au/biochemistry-and-chemistry"
+    startDate: "Jul 2012"
+    endDate: "Oct 2012"
+    highlights:
+        - "Multiple sclerosis research"
+  - company: "University of Strathclyde / Biomedical Engineering Dept."
+    position: "Visiting Researcher"
+    website: "https://www.strath.ac.uk/engineering/biomedicalengineering/"
+    startDate: "Feb 2012"
+    endDate: "Apr 2012"
+    highlights:
+        - "Brain-Computer-Interface development"
 volunteer:
   - organization: "Casa Hogar e.V."
     position: "Web-Admin"
     website: "https://www.casa-hogar.de/en/en-home"
     startDate: "Jun 2015"
     endDate: ""
-    summary: "CASA HOGAR wants to provide a home for young girls in the Colombian region Chocó where they are protected from exploitation and prostitution and where they can feel safe. We want to provide a place where they can experience positive support and empowerment, where they can study in peace and receive a diploma that qualifies them for university education."
+    #summary: "CASA HOGAR wants to provide a home for young girls in the Colombian region Chocó where they are protected from exploitation and prostitution and where they can feel safe. We want to provide a place where they can experience positive support and empowerment, where they can study in peace and receive a diploma that qualifies them for university education."
     # highlights:
     #   - "Awarded 'Teacher of the Month'"
 education:
@@ -59,8 +109,8 @@ education:
     area: "Neuroscience"
     studyType: "Ph.D."
     startDate: "Apr 2016"
-    endDate: ""
-    gpa: "n/A yet"
+    endDate: "Nov 2020"
+    gpa: "0.0 (Summa cum laude)"
     # courses:
     #   - "DB1101 - Basic SQL"
     #   - "CS2011 - Java Introduction"
@@ -89,11 +139,11 @@ education:
     endDate: "Sep 2013"
     gpa: "2.0 (Very good)"
     courses:
-      - "Module 1 - Neuroinformatics"
-      - "Module 2 - Cognitive Psychology"
-      - "Module 3 - Computational Linguistics"
-      - "Module 4 - Neuroscience"
-      - "Module 5 - Computer Science"
+      - "Module 1 - Computer Science"
+      - "Module 2 - Artificial Intelligence"
+      - "Module 3 - Neuroinformatics"
+      - "Module 4 - Computational Linguistics"
+      - "Module 5 - Neuroscience"
 awards:
   - title: "Influential Scientist in Epileptology"
     date: "Mar 2021"
@@ -163,14 +213,16 @@ skills:
       - "TensorFlow"
       - "PyTorch"
       - "scikit-learn"
+      - "pandas"
+      - "numpy"
+  - name: "SQL"
+    level: "Master"
   - name: "MATLAB"
     level: "Master"
   - name: "Java"
-    level: "Master"
+    level: "Intermediate"
   - name: "C/C++"
     level: "Intermediate"
-  - name: "Blender"
-    level: "Beginner"
   - name: "LaTeX"
     level: "Beginner"
 
