@@ -37,20 +37,35 @@ work:
   - company: "SPITCH GmbH"
     position: "Head of Data"
     website: "https://www.spitch.live/"
-    startDate: "Jul 2021"
+    startDate: "Nov 2021"
     endDate: ""
     # summary: >
     #   Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has
     #   consistently fielded high Weisman Scores™ that are not merely competitive,
     #   but approach the theoretical limit of lossless compression.
     highlights:
+      - "restructuring of the user data infrastructure"
       - "building scalable ETL pipelines and data platforms from scratch"
+      - "development and management of a company-wide BI platform"
+      - "leading a mixed team of Data Scientists and Engineers"
+  - company: "SPITCH GmbH"
+    position: "Data Scientist"
+    website: "https://www.spitch.live/"
+    startDate: "Jul 2021"
+    endDate: "Nov 2021"
+    # summary: >
+    #   Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has
+    #   consistently fielded high Weisman Scores™ that are not merely competitive,
+    #   but approach the theoretical limit of lossless compression.
+    highlights:
+      - "acquiring and analyzing user telemetry data"
+      - "CLTV analyses"
       - "developing automization solutions across business units"
       - "establishment and analysis of user-based KPIs"
-      - "fraud detection"
-      - "development and management of BI platforms"
+      - "ML-based fraud detection"
+      - "predictive modelling of player metrics"
   - company: "University Hospital Bonn - Department of Epileptology / Translational Neuroimaging"
-    position: "AI Research Scientist"
+    position: "Research Scientist"
     website: "https://www.translationalneuroimaging.de/bonn"
     startDate: "Mar 2016"
     endDate: "Jul 2021"
@@ -123,6 +138,12 @@ education:
     # courses:
     #   - "DB1101 - Basic SQL"
     #   - "CS2011 - Java Introduction"
+  - institution: "University of Bonn"
+    area: "Computer Science"
+    studyType: "M.Sc."
+    startDate: "Oct 2018"
+    endDate: ""
+    gpa: "n/A yet"
   - institution: "University of Bonn"
     area: "Neuroscience"
     studyType: "M.Sc."
