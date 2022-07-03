@@ -4,16 +4,14 @@ image: /assets/img/hydejack-8.png
 hide_description: true
 ---
 
-# Welcome to the personal homepage of Bastian David!
+# Welcome to the personal homepage of Dr. Bastian David!
 
 <img class="indeximg" src="/assets/brain_combi.png">
 
-Bastian David is a Computational Neuroscience PhD student at the University Hospital Bonn,
-Department of Epileptology. He is developing clinically viable software
-based on state-of-the-art artificial intelligence methodology
-to help physicians diagnose and surgically treat their patients.
+Bastian David is a Data Enthusiast with a background in Neuroscience, Computer Science, Cognitive Science, and AI.
+He holds a PhD degree that he finished with summa cum laude, contributed to more than 20 peer-reviewed scientific publications,
+helped develop a software that is used by healthcare centers all around the globe, won several highly competitive research
+awards and scholarships, and has his own lexicon entry in the "Lexikon der Epileptologie".
 
-This website is still a work in progress, in case you are interested in his current projects,
-feel free to checkout his [publications](http://www.bastiandavid.com/publications/) or
-[his page](https://www.translationalneuroimaging.de/bastian-david) on the Translational Neuroimaging homepage.
-
+Also, he is actually a humble and empathic guy, who only stomachs to write things like this about himself by talking in third-person.
+Which, usually, he wouldn't do either, I swear... eh... he swears!
