@@ -19,4 +19,4 @@ My background is interdisciplinary and I am super enthusiastic about all things 
 
 Methodologically I am utilizing current AI techniques, such as convolutional neural networks, graph neural networks and generative adversarial networks. However, I am not limited to AI methodology and try to make analytical choices based on pragmatism.
 {: style="text-align: justify"}
-Besides data analysis, I am very driven by the prospect of using creative data analyses to have a positive influence on people's lives and, ultimately, our society as a whole.
+Besides data analysis, I am very driven by the prospect of having a positive influence on people's lives and, ultimately, our society as a whole.
